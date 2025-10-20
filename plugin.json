@@ -1,13 +1,13 @@
 {
-    "name": "Class Widgets 插件模板",
-    "description": "这里是简介，用简短的语言描述插件的功能。",
-    "version": "1.0.0",
-    "plugin_ver": 1,
-    "author": "你的名字",
+    "name": "随机点名",
+    "description": "基于neko_lfj | RinLit的随机点名带来界面较为多彩的随机点名功能",
+    "version": "1.6",
+    "plugin_ver": 4,
+    "author": "neko_lfj | RinLit and hungyi",
     "settings": true,
 
-    "url": "https://github.com/{repo-owner}/{repo}",
+    "url": "https://github.com/HEHONGYI11/cw-rangename-xuanku",
     "branch": "main",
 
-    "update_date": "yyyy/mm/dd"
+    "update_date": "2025/10/20"
 }
