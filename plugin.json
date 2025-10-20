@@ -4,7 +4,7 @@
     "version": "1.6",
     "plugin_ver": 4,
     "author": "neko_lfj | RinLit and hungyi",
-    "settings": true,
+    "settings": false,
 
     "url": "https://github.com/HEHONGYI11/cw-rangename-xuanku",
     "branch": "main",
